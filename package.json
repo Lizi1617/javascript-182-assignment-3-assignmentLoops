@@ -1,0 +1,16 @@
+{
+  "name": "assignmentloops",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "eslint": "^9.15.0"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScriptADI/assignmentLoops.git"
+  },
+  "homepage": "https://github.com/JavaScriptADI/assignmentLoops#readme"
+}
